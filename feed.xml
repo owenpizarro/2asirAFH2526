@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>AFH 2ASIR</title>
+    <link href="https://owenpizarro.github.io/2asirAFH2526/feed.xml" rel="self" />
+    <link href="https://owenpizarro.github.io/2asirAFH2526" />
+    <updated>2025-10-09T16:22:31+02:00</updated>
+    <author>
+        <name>Owen Pizarro</name>
+    </author>
+    <id>https://owenpizarro.github.io/2asirAFH2526</id>
+
+    <entry>
+        <title>AFH 2ASIR</title>
+        <author>
+            <name>Owen Pizarro</name>
+        </author>
+        <link href="https://owenpizarro.github.io/2asirAFH2526/afh-2asir.html"/>
+        <id>https://owenpizarro.github.io/2asirAFH2526/afh-2asir.html</id>
+
+        <updated>2025-10-09T16:22:31+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
