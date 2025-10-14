@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "AFH 2ASIR",
+    "title": "AFH2526",
     "description": "",
     "home_page_url": "https://owenpizarro.github.io/2asirAFH2526",
     "feed_url": "https://owenpizarro.github.io/2asirAFH2526/feed.json",
@@ -9,17 +9,5 @@
         "name": "Owen Pizarro"
     },
     "items": [
-        {
-            "id": "https://owenpizarro.github.io/2asirAFH2526/afh-2asir.html",
-            "url": "https://owenpizarro.github.io/2asirAFH2526/afh-2asir.html",
-            "title": "AFH 2ASIR",
-            "author": {
-                "name": "Owen Pizarro"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-10-09T16:22:31+02:00",
-            "date_modified": "2025-10-09T16:22:31+02:00"
-        }
     ]
 }
